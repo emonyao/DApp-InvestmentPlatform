@@ -3,61 +3,61 @@ astor==0.8.1
 certifi==2021.5.30
 cffi==1.15.0
 click==8.0.3
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-coverage @ file:///C:/ci/coverage_1614614921360/work
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
-Cython @ file:///C:/ci/cython_1626257069493/work
-dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
-decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+colorama==0.4.4
+coverage 
+cycler
+Cython 
+dataclasses 
+decorator 
 Flask==2.0.3
 Flask-SQLAlchemy==2.5.1
-gast @ file:///tmp/build/80754af9/gast_1637837472536/work
+gast 
 greenlet==2.0.2
-grpcio @ file:///C:/ci/grpcio_1614884461394/work
+grpcio 
 h5py==2.10.0
-ijson @ file:///tmp/build/80754af9/ijson_1614710121363/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1631916885413/work
+ijson 
+importlib-metadata 
 ipython==6.1.0
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipython-genutils 
 itsdangerous==2.0.1
-jedi @ file:///C:/ci/jedi_1611341129952/work
+jedi
 jieba==0.42.1
 Jinja2==3.0.3
 joblib==0.13.2
-kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
+kiwisolver 
 mariadb==1.0.9
-Markdown @ file:///C:/ci/markdown_1614364003005/work
+Markdown
 MarkupSafe==2.0.1
-matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+matplotlib
 mkl-fft==1.3.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 networkx==2.2
 nltk==3.6.5
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603480701039/work
+numpy
 olefile==0.46
 pandas==0.20.3
-parso @ file:///tmp/build/80754af9/parso_1617223946239/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow @ file:///C:/ci/pillow_1625663293114/work
+parso 
+pickleshare 
+Pillow 
 prompt-toolkit==1.0.15
 protobuf==3.17.2
 pyaes==1.6.1
 pycparser==2.21
-Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+Pygments
 PyGraph==0.2.1
 pymongo==4.1.1
-pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyparsing 
 pyreadline==2.1
 Pyrogram==1.4.16
 PySocks==1.7.1
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dateutil 
 python-graph-core==1.8.2
 pytz==2021.3
-regex @ file:///C:/ci/regex_1629302333945/work
-scipy @ file:///C:/ci/scipy_1597675683670/work
+regex 
+scipy 
 simplegeneric==0.8.1
-six @ file:///tmp/build/80754af9/six_1623709665295/work
+six 
 SQLAlchemy==1.4.54
 tensorboard==1.9.0
 tensorflow==1.9.0
@@ -65,12 +65,12 @@ termcolor==1.1.0
 torch==1.10.1+cu113
 torchaudio==0.10.1+cu113
 torchvision==0.11.2+cu113
-tornado @ file:///C:/ci/tornado_1606942379977/work
-tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
-traitlets @ file:///C:/ci/traitlets_1632759765830/work
-typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
-Werkzeug @ file:///tmp/build/80754af9/werkzeug_1635505089296/work
+tornado 
+tqdm 
+traitlets 
+typing-extensions 
+wcwidth 
+Werkzeug 
 wincertstore==0.2
-wordcloud @ file:///E:/ku/wordcloud/wordcloud-1.8.1-cp36-cp36m-win_amd64.whl
-zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
+wordcloud
+zipp 
